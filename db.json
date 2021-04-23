@@ -1,0 +1,8 @@
+{
+  "tabela": [
+    { "id": 1, "produto": "Máscara Deku", "preco": 1000 },
+    { "id": 2, "produto": "Máscara Goron", "preco": 2500 },
+    { "id": 3, "produto": "Máscara Zora", "preco": 5000 },
+    { "id": 4, "produto": "Máscara Majora", "preco": 10000 }
+  ]
+}
